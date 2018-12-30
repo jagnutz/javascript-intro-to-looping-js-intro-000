@@ -32,6 +32,3 @@ while (number > 0) {
 }
   return 'done'
 }
-
-
-
