@@ -11,7 +11,7 @@ function makeArray() {
 }
 */
 
-// var array = [];
+var array = [];
 function forLoop(array) {
 for (var i = 0; i < 25; i++)
 {
@@ -23,3 +23,6 @@ else {
 }}
   return array
 }
+
+
+
