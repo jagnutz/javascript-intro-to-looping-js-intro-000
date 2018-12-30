@@ -24,8 +24,3 @@ else {
 
   return array
 }
-
-
-
-
-
