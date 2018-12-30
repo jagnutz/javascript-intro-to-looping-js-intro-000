@@ -23,6 +23,3 @@ else {
 }}
   return array
 }
-
-
-
