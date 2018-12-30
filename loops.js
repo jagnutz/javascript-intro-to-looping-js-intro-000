@@ -15,7 +15,7 @@ function makeArray() {
 function forLoop(array) {
 for (var i = 0; i < 25; i++)
 {
-  if (i===1){
+  if (i===1 || i===0){
   array.push(`I am ${i} strange loop.`)
 }
 else {
